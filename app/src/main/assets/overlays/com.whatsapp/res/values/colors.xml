@@ -13,7 +13,7 @@
 <color name="accent_material_dark">#ff008577</color>
 <color name="accent_material_light">#4c5460</color>
 <color name="action_mode">#4c5460</color>
-<color name="action_mode_dark">#ff346ac3</color>
+<color name="action_mode_dark">#ff4c5460</color> <!-- status bar color during long tap on chat -->
 <color name="actionbar_separator">#66ffffff</color>
 <color name="album_progress_determinate">#4c5460</color>
 <color name="album_progress_indeterminate">#ff282828</color>
