@@ -191,5 +191,5 @@
 <color name="black_semi_transparent_psy">#b2ffffff</color>
 <color name="abs__holo_blue_light">#4c5460</color>
 <color name="running_processes_apps_ram">#4c5460</color>
-<color name="unread_indicator">#4c5460</color>
+<color name="unread_indicator">#4285f4</color>
 </resources>
