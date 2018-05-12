@@ -162,7 +162,7 @@
 <color name="secondary_text_disabled_material_dark">#36ffffff</color>
 <color name="secondary_text_disabled_material_light">#24000000</color>
 <color name="section_text">#ff2aeaba</color>
-<color name="selection_check_background">#ffffffff</color>
+<color name="selection_check_background">#ff4c5460</color>
 <color name="starred_list_background">#ffefeeeb</color>
 <color name="status_error">#fffa4141</color>
 <color name="status_normal">#8c000000</color>
